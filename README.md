@@ -5,4 +5,4 @@
 
 #### My Homepage repository:  https://github.com/jounijoh/homepage 
 - My personal homepage to showcase film photoraphity (only my own for now)
-- Works also as my portfolio project for development
+- Works also as portfolio project for my development skills
